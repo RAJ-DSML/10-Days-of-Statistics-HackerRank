@@ -1,9 +1,10 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Wed Oct 27 23:52:36 2021
 
-Author: Raj Kumar Pal
-File Name: Day 0: Mean, Median, and Mode
+@author: rajkumarpal
+Problem Name: Day 0: Mean, Median, and Mode
 """
 
 import numpy as np
